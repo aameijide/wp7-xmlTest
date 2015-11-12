@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\App.g.i.cs
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.g.resources
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\Background.png
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\XMLTest.dll
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\XMLTest.pdb
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.dll
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\XMLTest.pdb
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\AppManifest.xaml
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\Bin\Debug\XMLTest.xap
+D:\Visual Studio 2010\Projects\XMLTest\XMLTest\obj\Debug\XapCacheFile.xml

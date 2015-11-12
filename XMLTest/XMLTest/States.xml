@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <states>
+    <state>
+      <id>1</id>
+      <name>state1</name>
+      <cities>
+        <city>
+          <cityid>1</cityid>
+          <cityname>city1</cityname>
+          <pincode>0010</pincode>
+        </city>
+        <city>
+          <cityid>2</cityid>
+          <cityname>city2</cityname>
+          <pincode>0011</pincode>
+        </city>
+      </cities>
+    </state>
+    <state>
+      <id>2</id>
+      <name>state2</name>
+      <cities>
+        <city>
+          <cityid>1</cityid>
+          <cityname>city1</cityname>
+          <pincode>0010</pincode>
+        </city>
+        <city>
+          <cityid>2</cityid>
+          <cityname>city2</cityname>
+          <pincode>0011</pincode>
+        </city>
+      </cities>
+    </state>
+  </states>
+</root>
