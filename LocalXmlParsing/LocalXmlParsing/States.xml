@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tramcelona>
+	<tram>
+		<parada id ="101">
+			<nom>Francesc Macià</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="102">
+			<nom>L'Illa</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="103">
+			<nom>Numància</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="104">
+			<nom>Maria Cristina</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="105">
+			<nom>Pius XII</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="106">
+			<nom>Palau Reial</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="107">
+			<nom>Zona Universitària</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="108">
+			<nom>Avinguda de Xile</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="109">
+			<nom>Ernest Lluc</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="110">
+			<nom>Can Rigal</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="111">
+			<nom>Ca n'Oliveres</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="112">
+			<nom>Can Clota</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="113">
+			<nom>Pont d'Esplugues</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="114">
+			<nom>La Sardana</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="115">
+			<nom>Montesa</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="116">
+			<nom>El Pedró</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="117">
+			<nom>Ignasi Iglésias</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="118">
+			<nom>Cornellà centre</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="119">
+			<nom>Les Aigües</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="120">
+			<nom>Fontsanta i Fatjó</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="121">
+			<nom>Bon Viatge</nom>
+			<t1>true</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="222">
+			<nom>La Fontsanta</nom>
+			<t1>false</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="223">
+			<nom>Centre Miquel Martí i Pol</nom>
+			<t1>false</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="224">
+			<nom>Llevant - Les Planes</nom>
+			<t1>false</t1>
+			<t2>true</t2>
+			<t3>false</t3>
+		</parada>
+		<parada id ="316">
+			<nom>Hospital Sant Joan Despí | TV3</nom>
+			<t1>false</t1>
+			<t2>false</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="317">
+			<nom>Rambla de Sant Just</nom>
+			<t1>false</t1>
+			<t2>false</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="318">
+			<nom>Walden</nom>
+			<t1>false</t1>
+			<t2>false</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="316">
+			<nom>Torreblanca</nom>
+			<t1>false</t1>
+			<t2>false</t2>
+			<t3>true</t3>
+		</parada>
+		<parada id ="316">
+			<nom>Sant Feliu | Consell Comarcal</nom>
+			<t1>false</t1>
+			<t2>false</t2>
+			<t3>true</t3>
+		</parada>
+	</tram>
+	<tram>
+		<parada id ="401">
+			<nom>Ciutadella | Vila Olímpica</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="402">
+			<nom>Wellington</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="403">
+			<nom>Marina</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="404">
+			<nom>Auditori | Teatre Nacional</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="405">
+			<nom>Glòries</nom>
+			<t4>true</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="406">
+			<nom>Ca l'Aranyó</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="407">
+			<nom>Pere IV</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="108">
+			<nom>Fluvià</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="409">
+			<nom>Selva de Mar</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="410">
+			<nom>El Maresme</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="411">
+			<nom>Fòrum</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="412">
+			<nom>Can Llima</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="502">
+			<nom>La Farinera</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="503">
+			<nom>Can Jaumeandreu</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="504">
+			<nom>Espronceda</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="505">
+			<nom>Sant Martí de Provençals</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="506">
+			<nom>Besòs</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="507">
+			<nom>Alfons el Magnànim</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="508">
+			<nom>Parc del Besòs</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="609">
+			<nom>La Mina</nom>
+			<t4>false</t4>
+			<t5>false</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="509">
+			<nom>La Catalana</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="510">
+			<nom>Sant Joan Baptista</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="511">
+			<nom>Encants de Sant Adrià</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="512">
+			<nom>Sant Roc</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="513">
+			<nom>Gorg</nom>
+			<t4>false</t4>
+			<t5>true</t5>
+			<t6>false</t6>
+		</parada>
+		<parada id ="413">
+			<nom>Central Tèrmica del Besòs</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>true</t6>
+		</parada>
+		<parada id ="414">
+			<nom>Estació de Sant Adrià</nom>
+			<t4>true</t4>
+			<t5>false</t5>
+			<t6>true</t6>
+		</parada>
+	</tram>
+</tramcelona>
